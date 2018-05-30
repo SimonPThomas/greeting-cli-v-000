@@ -1,5 +1,5 @@
 # code the #greeting method here!
-
+name = "You"
 def greeting(name)
   puts "Hi! What's Your Name?"
   gets.name.strip
